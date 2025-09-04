@@ -1,2 +1,4 @@
 # Task 2 Starter Repo
 Contains Everything you need to get started on task 2 of Forage's Wells Fargo software engineering program
+
+# [2025-09-04] session 8
