@@ -40,3 +40,5 @@ Contains Everything you need to get started on task 2 of Forage's Wells Fargo so
 # [2025-09-19] session 52
 
 # [2025-09-21] session 58
+
+# [2025-09-21] session 59
